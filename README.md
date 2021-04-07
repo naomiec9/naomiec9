@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naomiec9 ✨ (or just Naomi!)
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on - Maybe anything! Drop me a message.  
+- 💞️ I’m looking to collaborate on - Anything related to the above! Drop me a message.  
 - 📬 You can reach me on Twitter @naomielizabeth.__
 ✨ 
 <!---
