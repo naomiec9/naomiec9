@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @naomiec9 ✨ (or just Naomi!)
+- 👋 Hi, I’m @naomiec9 ✨
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on - Anything related to the above! Drop me a message.  
-- 📬 You can reach me on Twitter @naomielizabeth.__
+- 🌱 I’m currently learning React and trying to master Javascript.
+- 💞️ 
 ✨ 
 <!---
 naomiec9/naomiec9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
