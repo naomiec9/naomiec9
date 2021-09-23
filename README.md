@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naomiec9 ✨
-- 👀 I’m interested in front-end web development.
+- 👀 I’m interested in full stack web development.
 - 🌱 I’m currently learning Next.js
 - 💞️ 
 ✨ 
